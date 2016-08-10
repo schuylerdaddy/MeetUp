@@ -1,1 +1,1 @@
-# MeetUp
+# Materials for C++ meetup.
